@@ -1,1 +1,2 @@
-document.getElementById("test").innerHTML = "woah did it change";
+var element = document.getElementById("test");
+     element.innerHTML= "<p>woah did it change</p>";
