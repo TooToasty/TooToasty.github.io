@@ -1,2 +1,2 @@
 var element = document.getElementById("test");
-     element.innerHTML= "<p>woah did it change</p>";
+     element.innerHTML= "woah did it change";
